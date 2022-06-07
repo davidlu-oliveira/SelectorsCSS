@@ -1,0 +1,21 @@
+.yellow-text{
+    color: rgb(248, 55, 206);
+}
+
+.big_text{
+    font-size: 40px;
+}
+
+.bigger_text{
+    font-size: 60px;
+    font-style: italic;
+}
+
+#europa_text{
+    color: darkblue;
+    font-style: oblique;
+}
+
+li{
+    color: aqua;
+}
